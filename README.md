@@ -1,3 +1,29 @@
+# Additional features to add
+
+Models to send invoice to client's email - so, add input for client email.
+
+Currency converter because yes.
+
+Research PDFLayer to convert invoice to pdf for download (and also to send to email).
+
+Probably better if I display the form and invoice side by side instead of having to switch every single time to preview.
+
+# existing features 
+
+Form to capture yours and your client's data such as full name, email address, physical address, website and your bank account details.
+
+Input invoice number, invoice date and due date.
+
+Create invoice table - add, edit and remove items from your table.
+
+See the total amount of items in the table.
+
+Write additional notes to your client such as how to pay, bank details and so on and so forth.
+
+Preview your invoice.
+
+Print your invoice.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
